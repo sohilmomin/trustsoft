@@ -1,4 +1,4 @@
-import { Switch, Route, withRouter } from 'react-router-dom';
+import { Switch, Route, withRouter, Redirect } from 'react-router-dom';
 import { connect } from 'react-redux'
 import { fetchOffers, postOffer, editOffer, deleteOffer, logout, signIn, signUp } from '../redux/ActionCreator'
 import Header from './headerComponent';
