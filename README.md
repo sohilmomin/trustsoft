@@ -18,4 +18,5 @@ This task is all about Fashion Factory Best Offers and Deals.
   (6) Fully responsive website.
 
 ##Live Website
-https://trustsoft.herokuapp.com
+
+ https://trustsoft.herokuapp.com
